@@ -1,7 +1,7 @@
 {
   "name": "unreferenced-files-webpack-plugin",
   "version": "1.0.0",
-  "repository": "https://github.com/yu1596882018/surroundContents.git",
+  "repository": "https://github.com/yu1596882018/unreferenced-files-webpack-plugin.git",
   "description": "A Webpack plugin to detect and optionally delete unused (unreferenced) files in your project.",
   "main": "lib/UnreferencedFilesPlugin.js",
   "bin": {
